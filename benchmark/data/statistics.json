@@ -1,0 +1,29 @@
+{
+  "total": 1000,
+  "frozen_historical": 100,
+  "new_method_aligned": 900,
+  "capability": {
+    "general_vqa": 250,
+    "perception_recognition": 250,
+    "text_rich_understanding": 250,
+    "visual_reasoning": 250
+  },
+  "answer_format": {
+    "binary": 200,
+    "numeric": 250,
+    "option": 150,
+    "short_text": 400
+  },
+  "new_mechanism": {
+    "general_compositional_verify": 43,
+    "general_grounded_open": 124,
+    "general_visual_mcq": 58,
+    "perception_binary_verify": 150,
+    "perception_local_detail": 75,
+    "reason_dense_count": 103,
+    "reason_diagram_option": 80,
+    "reason_spatial_relation": 42,
+    "text_chart_numeric": 120,
+    "text_ocr_extractive": 105
+  }
+}

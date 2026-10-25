@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+api.txt
+*.log
+method/models/
+method/outputs/
+benchmark/images_191task_1k/
+benchmark/benchmark_images/
+*.zip
+*.tar.gz
+*.pth
+*.safetensors
+.DS_Store
